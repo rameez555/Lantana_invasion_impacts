@@ -1,0 +1,26 @@
+Level,Response class,Variables used 
+Species,Plant growth,"Change in biomass (individual plant), increase in size of whole plant or specific parts, root: shoot ratio, growth rate, percentage growth"
+Community ,Animal abundance,"Density, visits, counts"
+Community ,Animal richness,"Number of animal species/taxa, animal number"
+Community ,Plant abundance,"Density, cover, abundance, dominance"
+Community ,Plant community growth,"Change in biomass of all plants, increase in size of whole plant community"
+Community ,Plant diversity,"Diversity, functional diversity, phylogenetic diversity, evenness, alpha diversity"
+Community ,Plant production,"Biomass, net primary productivity (NPP)"
+Community ,Plant richness,"Number of plant species/taxa, plant number"
+Community ,Microbial abundance,dominance
+Community ,Microbial diversity,"Diversity, functional diversity, phylogenetic diversity, evenness, alpha diversity"
+Community ,Microbial richness,"Number of species/taxa, microbial number"
+Ecosystem,C pools,"Soil, litter, plant, microbial C "
+Ecosystem,N pools,"Soil, litter, plant, microbial N "
+Ecosystem,C/N,"Soil, litter, plant, microbial C/N"
+Ecosystem,P pools,"Soil, litter, plant, microbial P"
+Ecosystem,Light availibility,Light penetration; photosynthetic active radiation (PAR)
+Ecosystem,Litter decomposition,Litter decomposition rate; percentage mass remaining; litter cover
+Ecosystem,Macronutrients,"Soil, litter, plant K, Ca, Mg, S, Al, Sr, Ba (total/available/exchangeable/extractable)"
+Ecosystem,Microbial activity,"Enzymatic activity, soil bacterial/ fungal activity, respiration rate, consumption rate, assimilation rate, growth efficiency"
+Ecosystem,Micronutrients,"Soil, litter, plant Zn, Cu, B, Ni, Mn, Mb (total/available/exchangeable/extractable)"
+Ecosystem,pH,Soil pH
+Ecosystem,Salinity,"Soil Na, electrical conductivity, cation exchange capacity (CEC)"
+Ecosystem,Soil moisture,"Soil water, moisture content"
+Ecosystem,Soil OM,organic matter content
+Ecosystem,Soil texture,"Percentage clay, sand, silt"
